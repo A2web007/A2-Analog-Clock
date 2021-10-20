@@ -3,11 +3,15 @@
 	padding: 0;
 	box-sizing: border-box; 
 }
+
+
 html{
 	font-family: Century Gothic;
 	height: 150vh;
 }
-
+@-ms-viewport{
+  width: device-width;
+}
 .logo img{
 	position: absolute;
 	top:0%;
