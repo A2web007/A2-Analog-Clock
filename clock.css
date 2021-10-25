@@ -12,6 +12,9 @@ html{
 @-ms-viewport{
   width: device-width;
 }
+body{
+overflow-x: hidden;
+}
 .logo img{
 	position: absolute;
 	top:0%;
